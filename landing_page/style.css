@@ -1,0 +1,60 @@
+body {
+    background-color: #ece2e2ba
+}
+
+.go_left {
+    float: right;
+}
+nav {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #0075ff;
+    border-radius: 5px;
+    padding: 2px 5px;
+    color: white;
+}
+
+header{
+    background-image: url("https://images.pexels.com/photos/327434/pexels-photo-327434.jpeg?auto=compress&cs=tinysrgb&w=600");
+    padding: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+    color: white;
+    height: 400px;
+}
+
+article{
+    text-align:-webkit-center
+}
+
+article div {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
+
+.title {
+    margin-left: 50px;
+}
+
+.card {
+    margin-left: 15%; 
+    margin-right: 15%;
+    width: 70%;
+    height: 70%;
+    text-align:-webkit-center;
+    padding: 15px;
+}
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:medium
+}
